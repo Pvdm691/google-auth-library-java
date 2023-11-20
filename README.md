@@ -8,7 +8,7 @@ Open source authentication client library for Java.
 -  [API Documentation](https://googleapis.dev/java/google-auth-library/latest)
 
 This project consists of 3 artifacts:
-
+S
 - [*google-auth-library-credentials*](#google-auth-library-credentials): contains base classes and
 interfaces for Google credentials
 - [*google-auth-library-appengine*](#google-auth-library-appengine): contains App Engine
